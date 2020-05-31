@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/C1-playground/static/css/main.8e4847f4.chunk.css",
-    "main.js": "/C1-playground/static/js/main.0f816f8a.chunk.js",
-    "main.js.map": "/C1-playground/static/js/main.0f816f8a.chunk.js.map",
-    "runtime-main.js": "/C1-playground/static/js/runtime-main.f4a40350.js",
-    "runtime-main.js.map": "/C1-playground/static/js/runtime-main.f4a40350.js.map",
-    "static/css/2.ad8fe80d.chunk.css": "/C1-playground/static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.b63c32a4.chunk.js": "/C1-playground/static/js/2.b63c32a4.chunk.js",
-    "static/js/2.b63c32a4.chunk.js.map": "/C1-playground/static/js/2.b63c32a4.chunk.js.map",
-    "index.html": "/C1-playground/index.html",
-    "precache-manifest.74907038cc794965b041642c839a25ac.js": "/C1-playground/precache-manifest.74907038cc794965b041642c839a25ac.js",
-    "service-worker.js": "/C1-playground/service-worker.js",
-    "static/css/2.ad8fe80d.chunk.css.map": "/C1-playground/static/css/2.ad8fe80d.chunk.css.map",
-    "static/css/main.8e4847f4.chunk.css.map": "/C1-playground/static/css/main.8e4847f4.chunk.css.map",
-    "static/js/2.b63c32a4.chunk.js.LICENSE.txt": "/C1-playground/static/js/2.b63c32a4.chunk.js.LICENSE.txt"
+    "main.css": "/parkinson-predictor/static/css/main.e7ad0841.chunk.css",
+    "main.js": "/parkinson-predictor/static/js/main.bf100f4c.chunk.js",
+    "main.js.map": "/parkinson-predictor/static/js/main.bf100f4c.chunk.js.map",
+    "runtime-main.js": "/parkinson-predictor/static/js/runtime-main.f68ffd30.js",
+    "runtime-main.js.map": "/parkinson-predictor/static/js/runtime-main.f68ffd30.js.map",
+    "static/css/2.ad8fe80d.chunk.css": "/parkinson-predictor/static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.ad55437a.chunk.js": "/parkinson-predictor/static/js/2.ad55437a.chunk.js",
+    "static/js/2.ad55437a.chunk.js.map": "/parkinson-predictor/static/js/2.ad55437a.chunk.js.map",
+    "index.html": "/parkinson-predictor/index.html",
+    "precache-manifest.8835e997ce043ba50607308f0ff3299b.js": "/parkinson-predictor/precache-manifest.8835e997ce043ba50607308f0ff3299b.js",
+    "service-worker.js": "/parkinson-predictor/service-worker.js",
+    "static/css/2.ad8fe80d.chunk.css.map": "/parkinson-predictor/static/css/2.ad8fe80d.chunk.css.map",
+    "static/css/main.e7ad0841.chunk.css.map": "/parkinson-predictor/static/css/main.e7ad0841.chunk.css.map",
+    "static/js/2.ad55437a.chunk.js.LICENSE.txt": "/parkinson-predictor/static/js/2.ad55437a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4a40350.js",
+    "static/js/runtime-main.f68ffd30.js",
     "static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.b63c32a4.chunk.js",
-    "static/css/main.8e4847f4.chunk.css",
-    "static/js/main.0f816f8a.chunk.js"
+    "static/js/2.ad55437a.chunk.js",
+    "static/css/main.e7ad0841.chunk.css",
+    "static/js/main.bf100f4c.chunk.js"
   ]
 }
